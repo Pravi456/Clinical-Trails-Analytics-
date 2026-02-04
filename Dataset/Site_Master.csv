@@ -1,0 +1,8 @@
+SiteID,StudyID,Country,City,SiteName
+SITE01,ST001,India,Hyderabad,Apollo Research Center
+SITE02,ST001,India,Bangalore,Fortis Clinical Unit
+SITE03,ST001,India,Chennai,Global Health Research
+SITE04,ST001,India,Mumbai,Lilavati Research Wing
+SITE05,ST002,USA,Boston,Mass General Hospital
+SITE06,ST002,USA,Chicago,Mayo Clinic Research
+SITE07,ST002,UK,London,Imperial Clinical Unit
